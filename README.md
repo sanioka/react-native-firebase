@@ -2,6 +2,10 @@
 
 This is a React Native Firebase Starter Project with login, registration, persisted login, database reads and writes. You can use this project as boilerplate for bootstrapping any new React Native app that uses Firebase as its backend.
 
+Original post: https://www.freecodecamp.org/news/react-native-firebase-tutorial/
+
+Original GitHub: https://github.com/instamobile/react-native-firebase 
+
 <center><img src="https://www.instamobile.io/wp-content/uploads/2020/05/react-native-firebase.png" alt="react native firebase"/></center>
 
 This React Native Firebase starter contains a few key features that all apps backed by Fireabase support:
